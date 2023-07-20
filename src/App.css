@@ -23,6 +23,10 @@
   background-color: cornflowerblue;
 }
 
+.register-button:active {
+  background-color: rgb(79, 118, 190);
+}
+
 .success-msg {
   font-weight: bold;
   color: rgb(85, 13, 149);
