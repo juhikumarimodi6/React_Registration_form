@@ -4,7 +4,9 @@ This is a simple React application that provides a basic registration form with 
 
 ## Demo
 
-You can watch the demo of the Registration App [here](Registration-form-video.webm).
+You can watch the demo of the Registration App here:
+
+[Registration-form-video.webm](https://github.com/juhikumarimodi6/React_Registration_form/assets/71226446/688113cb-3975-4aa5-a675-b91c1e055119)
 
 
 ## Getting Started
